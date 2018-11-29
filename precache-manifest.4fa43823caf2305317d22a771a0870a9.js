@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/galiyas-birthday-card/static/js/runtime~main.c8bd23db.js"
   },
   {
-    "revision": "8ae4ede628c9f7bcd470",
-    "url": "/galiyas-birthday-card/static/js/main.8ae4ede6.chunk.js"
+    "revision": "0378973a29a193e91460",
+    "url": "/galiyas-birthday-card/static/js/main.0378973a.chunk.js"
   },
   {
     "revision": "0cd6058fc3c24877ba89",
     "url": "/galiyas-birthday-card/static/js/1.0cd6058f.chunk.js"
   },
   {
-    "revision": "8ae4ede628c9f7bcd470",
-    "url": "/galiyas-birthday-card/static/css/main.2599d695.chunk.css"
+    "revision": "0378973a29a193e91460",
+    "url": "/galiyas-birthday-card/static/css/main.e400bbe0.chunk.css"
   },
   {
-    "revision": "bc53ac95e4703a1664f45fc8e041e8db",
+    "revision": "1ae10825a2eaf9817920c439fc20100d",
     "url": "/galiyas-birthday-card/index.html"
   }
 ];

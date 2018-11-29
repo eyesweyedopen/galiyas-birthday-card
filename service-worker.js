@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/galiyas-birthday-card/precache-manifest.7d1e625991834b53501e828d205ec195.js"
+  "/galiyas-birthday-card/precache-manifest.4fa43823caf2305317d22a771a0870a9.js"
 );
 
 workbox.clientsClaim();
